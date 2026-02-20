@@ -1,0 +1,40 @@
+---
+.title = "Events – 2026",
+.date = @date("2026-01-13T00:00:00"),
+.author = "Robbie Lyman",
+.layout = "events.shtml",
+.draft = false,
+---
+
+[]($section.id('about'))
+## Events
+
+This list of events will maintain records about the meetup's events.
+I'd love to collect photos! Please reach out [via email](mailto:me@robbielyman.com).
+You can [subscribe to this page via RSS]($link.page('events').alternative('rss')).
+
+This page lists entries for the current year; for past entries consult the [events archive](/events/).
+
+## [Next: Meetup #13]($section.id('2026-03-10'))
+Location: [Pier 57](https://pier57nyc.com)    
+Time: 6pm    
+Presentation: TBD    
+[Luma link](https://luma.com/9zmell32)
+
+## [Meetup #12]($section.id('2026-02-17'))
+Location: [Pier 57](https://pier57nyc.com)    
+Time: 6pm    
+Presentation: [Peyman Mortazavi](https://peymanmo.com/) on [CSV-zero](https://github.com/peymanmortazavi/csv-zero).    
+Check out Peyman's [blog post](https://peymanmo.com/posts/1-csv-zero) on the project!    
+[Luma link](https://luma.com/epo7tw3i)
+
+## [Zig Day #02]($section.id('2026-01-24'))
+Location: [The Recurse Center](https://recurse.com)    
+Time: 10am    
+[Luma link](https://luma.com/1ywvn8mp)
+
+## [Meetup #11]($section.id('2026-01-20'))
+Location: [Pier 57](https://pier57nyc.com)    
+Time: 6pm    
+Presentation: Learning about the Zig build system!    
+[Luma link](https://luma.com/8mq0busj)

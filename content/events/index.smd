@@ -1,10 +1,10 @@
 ---
 .title = "Events Archive",
-.date = @date("2025-01-01T00:00:00"),
-.author = "Robbie Lyman",
+.date = .date("2025-01-01T00:00:00"),
 .layout = "events-archive.shtml",
-.alternatives = [{
+.alternatives = [.{
   .name = "rss",
+  .type = "application/rss+xml",
   .layout = "events.xml",
   .output = "index.xml",
 }],

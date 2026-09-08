@@ -1,0 +1,27 @@
+---
+.title = "Events – 2027",
+.date = .date("2027-01-01T00:00:00"),
+.layout = "events.shtml",
+.draft = false,
+---
+
+[]($section.id('about'))
+## Events
+
+This list of events will maintain records about the meetup's events.
+I'd love to collect photos! Please reach out [via email](mailto:me@robbielyman.com).
+You can [subscribe to this page via RSS]($link.page('events').alternative('rss')).
+
+This page lists entries for the year 2027; for past entries consult the [events archive](/events/).
+
+## [February Meetup]($section.id('2027-02-09'))
+Location: [Pier 57](https://pier57nyc.com)    
+Time: 6pm    
+Presentation: TBD
+[Luma link](https://luma.com/xd8bhmua)
+
+## [January Meetup]($section.id('2027-01-12'))
+Location: [Pier 57](https://pier57nyc.com)    
+Time: 6pm    
+Presentation: TBD     
+[Luma link](https://luma.com/3gw2j9bl)

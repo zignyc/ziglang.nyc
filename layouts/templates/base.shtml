@@ -17,10 +17,8 @@
     <h1 class="site-title" :text="$site.title"></h1>
     <nav>
       <a href="$site.page('').link()">About</a>
-      <ctx :if="$site.page('events').subpages().first?()">
          &nbsp; • &nbsp;
-        <a href="$if.link()">Events</a>
-      </ctx>
+      <a href="$site.page('events').subpages().at(1).link()">Events</a>
     </nav>
     <super>
     <footer>
